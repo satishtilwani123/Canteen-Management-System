@@ -1,0 +1,9 @@
+@media print {
+    .form-group label {
+        display :  none;
+    }
+	
+	.form-group div {
+        display :  none;
+    }
+}
